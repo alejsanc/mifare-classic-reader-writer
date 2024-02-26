@@ -1,6 +1,6 @@
 # Mifare Classic Reader Writer
 
-<p>Mifare Classic card reader and writer. It can be used as a command line program or as a Java class for programming other programs.</p>
+<p>Mifare Classic 1k and 4k card reader and writer. It can be used as a command line program or as a Java class for programming other programs.</p>
 
 <p>Only tested with the SCL3711 reader, for other readers it may be necessary to create a subclass and rewrite the getUID, loadKey, readBlock, writeBlock and valueBlockCommand methods to modify the APDU commands.</p>
 
