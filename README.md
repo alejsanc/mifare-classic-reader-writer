@@ -48,4 +48,4 @@ device.readCard();
 device.loadKey(KEY_A, "ffffffffffff");
 String block = device.readBlockHexString(4);</pre>
 
-More info in <a href="https://www.cuadernoinformatica.com/2024/02/tarjetas-nfc-mifare-classic.html">"Grabación de Archivos en Casetes"</a> blog article.
+More info in <a href="https://www.cuadernoinformatica.com/2024/02/tarjetas-nfc-mifare-classic.html">"Tarjetas NFC Mifare Classic"</a> blog article.
